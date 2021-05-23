@@ -10,4 +10,7 @@ public class GitDemo {
         System.out.println("git master...");
         System.out.println("hot_fix commit");
     }
+    public void dome01(){
+        System.out.println("Hello 1");
+    }
 }
